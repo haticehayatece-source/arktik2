@@ -1,2 +1,2 @@
-# arktik2
+https://arktik2.netlify.app
 ocean information page
